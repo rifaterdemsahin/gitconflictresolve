@@ -42,5 +42,33 @@ Push Wont Work
 Different files gets updates there is no issue >>> rebase true
 ![image](https://github.com/user-attachments/assets/c177cb2f-d794-4841-819d-4a53604619eb)
 
+Real Conflict and resolution after the fix with continue
+![image](https://github.com/user-attachments/assets/c9e7e373-14ef-44c1-a991-968df5f76a6d)
+
+After pull the error can be seen
+![image](https://github.com/user-attachments/assets/b78b71ee-7f86-4c6c-a50c-57928ac5638a)
+![image](https://github.com/user-attachments/assets/7a8d1d79-c366-4058-a7ee-a0ec5aa4d7f8)
+
+Head push
+![image](https://github.com/user-attachments/assets/ab0868b8-a0e5-4c81-8198-8c8b73a5eaf7)
+
+Push and see the errors > Status needed
+![image](https://github.com/user-attachments/assets/9a1b839b-36ce-4465-91e7-bee5076b3812)
+![image](https://github.com/user-attachments/assets/474e23ef-73c1-40e3-a204-f1017d5bb799)
+
+File has the issues
+![image](https://github.com/user-attachments/assets/61735804-be62-4f20-b27b-9809234d639f)
+![image](https://github.com/user-attachments/assets/3eff2f76-1605-4406-90c9-100855a2a6be)
+
+Which file has an issue with the git status
+![image](https://github.com/user-attachments/assets/ae1cfa61-15bf-4f98-8a48-ddd8d10c7451)
+
+Rebase and Commit
+![image](https://github.com/user-attachments/assets/f6a41883-cd8f-4052-a68b-384a44feea93)
+
+
+
+
+
 
 
