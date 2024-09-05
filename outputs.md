@@ -33,3 +33,10 @@ Merge triggered by rebase false
 Git Push Works
 ![image](https://github.com/user-attachments/assets/5542c0a4-ab0c-4e36-9dbf-56f94b3de51b)
 
+
+Push Wont Work 
+![image](https://github.com/user-attachments/assets/30d1e005-ed77-4479-9516-317ad420d75b)
+![image](https://github.com/user-attachments/assets/ca107741-1155-4c7c-8606-f7b7c54e47a9)
+
+
+
