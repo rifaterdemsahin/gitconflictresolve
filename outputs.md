@@ -13,3 +13,7 @@ Git Commit and online ssh management works
 
 vim works over replit
 ![image](https://github.com/user-attachments/assets/71fd834f-f257-4a74-b64f-4ae7febeccef)
+
+ai Fixes are there with reconnects
+![image](https://github.com/user-attachments/assets/396d26ff-7e01-4336-832b-f785ed58adf9)
+![image](https://github.com/user-attachments/assets/618f7697-2c1c-4552-a28c-f0a524ea5835)
