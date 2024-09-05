@@ -28,3 +28,8 @@ Git pull error and rebase is here ( Due to work in the browser and local action)
 
 Merge triggered by rebase false
 ![image](https://github.com/user-attachments/assets/3aafe612-e1c7-4f37-b296-0a58efe6f1b9)
+
+
+Git Push Works
+![image](https://github.com/user-attachments/assets/5542c0a4-ab0c-4e36-9dbf-56f94b3de51b)
+
