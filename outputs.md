@@ -85,6 +85,9 @@
 
 ![image](https://github.com/user-attachments/assets/f6a41883-cd8f-4052-a68b-384a44feea93)
 
+- Evidence of Conflict Resolution
+
+![image](https://github.com/user-attachments/assets/cafe1c6b-59d8-4ad2-acba-161edbcb297d)
 
 
 
