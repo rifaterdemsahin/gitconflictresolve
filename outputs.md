@@ -39,4 +39,8 @@ Push Wont Work
 ![image](https://github.com/user-attachments/assets/ca107741-1155-4c7c-8606-f7b7c54e47a9)
 
 
+Different files gets updates there is no issue >>> rebase true
+![image](https://github.com/user-attachments/assets/c177cb2f-d794-4841-819d-4a53604619eb)
+
+
 
