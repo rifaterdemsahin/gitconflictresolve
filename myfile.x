@@ -1,8 +1,5 @@
-test file for the conflicts
+gtest file for the conflicts
 now adding a different line and both databases heads are at a different location
-<<<<<<< HEAD
 
 I am updating this file X1
-=======
 I am updating this file X2!
->>>>>>> 02179fa (commit to fail)
