@@ -19,5 +19,8 @@ ai Fixes are there with reconnects
 ![image](https://github.com/user-attachments/assets/618f7697-2c1c-4552-a28c-f0a524ea5835)
 
 
-Conflict in Replit
+Conflict in Replit when pushing
 ![image](https://github.com/user-attachments/assets/1fcc6d6b-a4d0-4594-b4ab-2392fc6a1be1)
+
+Git pull error and rebase is here ( Due to work in the browser and local action)
+![image](https://github.com/user-attachments/assets/ea3dc845-d038-45ad-b15f-e0842891c11d)
