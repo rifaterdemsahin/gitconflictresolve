@@ -24,3 +24,7 @@ Conflict in Replit when pushing
 
 Git pull error and rebase is here ( Due to work in the browser and local action)
 ![image](https://github.com/user-attachments/assets/ea3dc845-d038-45ad-b15f-e0842891c11d)
+
+
+Merge triggered by rebase false
+![image](https://github.com/user-attachments/assets/3aafe612-e1c7-4f37-b296-0a58efe6f1b9)
